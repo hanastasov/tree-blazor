@@ -7,8 +7,3 @@
     align-content: flex-start;
     height: 100%;
 }
-.tree {
-    min-width: max-content;
-    min-height: max-content;
-    flex-shrink: 0;
-}
